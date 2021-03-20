@@ -19,3 +19,4 @@
 5.사자를 잡으면 게임이 끝나게 됩니다.
 
 종료 
+![종료](https://user-images.githubusercontent.com/77868874/111859715-330c5000-8986-11eb-9393-37dbf77830f0.PNG)
